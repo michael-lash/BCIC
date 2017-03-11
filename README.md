@@ -6,4 +6,4 @@
 
 **ARIC:** The dataset derived from ARIC has not been posted here, as it requires explicit NIH permission to use. We have, however, posted the code used in our experiments.
 
-**Supplemental Material:** Supplemental material can be found at this [link](www.michaeltlash.com/papers/suppl_material.pdf).
+**Supplemental Material:** Supplemental material can be found at this [link](http://www.michaeltlash.com/papers/suppl_material.pdf).
